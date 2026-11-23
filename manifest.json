@@ -1,0 +1,27 @@
+{
+  "name": "ڕێبەری پەروەردەی شارباژێڕ",
+  "short_name": "پەروەردەی شارباژێڕ",
+  "description": "ڕێبەری گشتی و پەیکەری ڕێکخستنی بەڕێوەبەرێتی پەروەردەی شارباژێڕ",
+  "dir": "rtl",
+  "lang": "ckb",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e1626",
+  "theme_color": "#0e1626",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
